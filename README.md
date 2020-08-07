@@ -14,7 +14,7 @@ VATSIM Sync is a project I started a couple years ago, basically it gives VATSIM
 [Vatsim-Notify](https://github.com/JordannDev/Vatsim-Notify) is a Discord bot I wrote to basically post in a channel whenever a controller logs into the VATSIM network. You can filter (select) which positions send out notifications.
 
 #### FixFormatter
-[FixFormatter](https://github.com/JordannDev/FixFormatter) is a small Java CLI I wrote for formatting the FAA's "fix.txt" file they provide. It's basically a giant text file that tells you all of the waypoints in FAA airspace (some foreign aswell). It's iffy at best, but it's main purpose it to extract all of the fixes inside of a ARTCC. I used this briefly on [VATSIM](https://vatsim.net) when I was a Facility Engineer in an ARTCC in the United Statets Division.
+[FixFormatter](https://github.com/JordannDev/FixFormatter) is a small Java CLI I wrote for formatting the FAA's "fix.txt" file they provide. It's basically a giant text file that tells you all of the waypoints in FAA airspace (some foreign aswell). It's iffy at best, but it's main purpose it to extract all of the fixes inside of a ARTCC. I used this briefly on [VATSIM](https://vatsim.net) when I was a Facility Engineer in an ARTCC in the United States Division.
 
 #### VRC Self Installer
 [VRC-Self-Installer](https://github.com/JordannDev/VRC-Self-Installer) is a small C# program I wrote for automatically downloading sector files from an endpoint, and installing them in the VRC folder. This is useful for updating/fetching the latest sector files in an ARTCC. It's pretty self explainitory, and doesn't really require a lot of setup. 
